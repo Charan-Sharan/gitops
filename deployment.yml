@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: crud
-        image: crud-app-arm:e5fef72b427ffdc7dd3fb3621de4d9de90ce3371
+        image: crud-app-arm:a8d24f9f539c00fe84fd037008f39fb5ce0f28af
         ports:
         - containerPort: 8000
